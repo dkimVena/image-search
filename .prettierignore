@@ -1,0 +1,14 @@
+# common
+node_modules
+package.json
+yarn.lock
+
+# backend
+dist
+build
+prisma
+
+# frontend
+.next
+out
+public
